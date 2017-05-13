@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\AndroidstudioProjects\\btdemoserver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon.png",
+        "source": "C:\\AndroidstudioProjects\\btdemoserver\\app\\src\\main\\res\\drawable-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\AndroidstudioProjects\\btdemoserver\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\count.png",
+        "source": "C:\\AndroidstudioProjects\\btdemoserver\\app\\src\\main\\res\\drawable-mdpi\\count.png"
+    }
+]

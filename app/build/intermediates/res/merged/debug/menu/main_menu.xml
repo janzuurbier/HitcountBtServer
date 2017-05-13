@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:title="start service"
+        android:id="@+id/id_start"
+        app:showAsAction="never" />
+    <item
+        android:title="stop service"
+        android:id="@+id/id_stop"
+        app:showAsAction="never" />
+    <item
+        android:title="reset"
+        android:id="@+id/id_reset"
+        app:showAsAction="never" />
+</menu>
