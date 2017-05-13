@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Dit apparaat ondersteund geen bluetooth. Neem een ander apparaat.</string>
+    <string name="app_name">BtHitCount</string>
+    <string name="tickertekst">HitCount</string>
+    <string name="oktitle">Bluetooth HitCountService is gestart</string>
+    <string name="okmessage">selecteer om servicemonitor te starten</string>
+    <string name="errortitle">service is niet gestart</string>
+    <string name="errormessage1">Zet bluetooth aan</string>
+    <string name="errormessage2">Dit apparaat ondersteund geen bluetooth</string>
+</resources>
